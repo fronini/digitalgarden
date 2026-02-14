@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/fron-s-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Digital Garden/Fron's Digital Garden/","tags":["gardenEntry"]}
 ---
 
 Home of Fronini's

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/studio-le-mon/block-bench/block-bench/"}
+{"dg-publish":true,"permalink":"/Projects/Studio Le Mon/BlockBench/BlockBench/"}
 ---
 
 
@@ -14,7 +14,7 @@
 >>
 
 #### Tutorials
-- [[Projects/Studio Le Mon/BlockBench/ArtByKev's - BlockBench for Begginers - [Index]\|ArtByKev's - BlockBench for Begginers - [Index]]]
+- [[Projects/Studio Le Mon/BlockBench/ArtByKev's - BlockBench for Begginers - Index\|ArtByKev's - BlockBench for Begginers - Index]]
 
 
 ## New project
